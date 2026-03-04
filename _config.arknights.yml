@@ -159,10 +159,10 @@ utterances:
 # 详见: https://giscus.app
 giscus:
   enable: true
-  repo: # Github 仓库所有者和名称，例如: octocat/Hello-World
-  repo_id: # 仓库 ID，可在 giscus 页面获取
-  category: # discussion 分类名称
-  category_id: # 分类 ID，可在 giscus 页面获取
+  repo: nomdn/lemonblog # Github 仓库所有者和名称，例如: octocat/Hello-World
+  repo_id: R_kgDORd6sMw # 仓库 ID，可在 giscus 页面获取
+  category: Announcements # discussion 分类名称
+  category_id: DIC_kwDORd6sM84C3pR8 # 分类 ID，可在 giscus 页面获取
   mapping: pathname # 页面 ↔️ discussion 映射关系，可选值: pathname | url | title | og:title | specific | number
   term: # 当 mapping 为 specific 时使用，指定的字符串
   discussion_number: # 当 mapping 为 number 时使用，指定的 discussion 号码
