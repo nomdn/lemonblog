@@ -34,7 +34,9 @@ jobs:
       run: |
         hexo clean                  # 清理旧的生成文件
         hexo generate               # 生成新的静态文件
+    - name: List generated files       # 列出生成的文件，便于调试
+      run: ls -R ./public           # 列出 public 目录下的所有文件
     - name: Deploy to EdgeOne Pages
-      run: npx edgeone pages deploy public -n default-pages-zone -t ${{ secrets.EDGEONE_TOKEN }}
+      run: npx edgeone pages deploy ./public -n lemonblog -t ${{ secrets.EDGEONE_TOKEN }}
       env:
         EDGEONE_TOKEN: ${{ secrets.EDGEONE_TOKEN }}
