@@ -173,11 +173,8 @@ giscus:
   
   # 主题配置 - 三种配置方式任选其一：
   # 方式一：使用单一主题（固定主题，不随网站主题切换）
-  theme: preferred_color_scheme # 主题，可选值详见 README.md 或 giscus 官网
-  
-  # 方式二：分别设置明暗主题（推荐，支持主题自动切换）
-  # theme_light: light # 亮色模式主题
-  # theme_dark: dark # 暗色模式主题
+  theme_light: light # 亮色模式主题
+  theme_dark: dark # 暗色模式主题
   
   # 方式三：使用自定义 CSS（高级用法）
   # theme: https://your-domain.com/path/to/custom-giscus-theme.css
