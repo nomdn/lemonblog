@@ -1,5 +1,5 @@
 ---
-title: Tunnel如何优选
+title: 如何给Tunnel使用自定义主机名
 date: 2026-03-08 13:38:00
 tags: Cloudflare
 categories: 教程

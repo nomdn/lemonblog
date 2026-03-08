@@ -1,5 +1,5 @@
 ---
-title: 域名变动
+title: 域名变动须知
 date: 2026-03-08 12:46:00
 tags: Notice
 categories: 杂七杂八
