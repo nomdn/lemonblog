@@ -17,6 +17,5 @@ categories: 杂七杂八
 | 蛋饺老师的秘密| pan.wsmdn.top| pan.wsmdn.dpdns.org|
 | Umami|    umami.wsmdn.top|umami.wsmdn.dpdns.org|
 | 咕咕嘎嘎api| ai.wsmdn.top|ai.wsmdn.dpdns.org|
-| pixiv图片代理|pixiv-proxy.wsmdn.top|pixiv-proxy.wsmdn.dpdns.org|
 | Stalk Example|api.wsmdn.top|现已无法访问|
 | DressAPI Docs| docs.wsmdn.top|docs.wsmdn.dpdns.org|
