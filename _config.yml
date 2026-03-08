@@ -1,5 +1,5 @@
-title: 柠檬博客
-subtitle: 里面有东西吗，里面基本没有东西
+title: 柠檬博客 - Lemonblog
+subtitle: 
 description: ''
 keywords: null
 author: nomdn
@@ -37,7 +37,7 @@ highlight:
   auto_detect: false
   tab_replace: ''
   wrap: true
-  hljs: false
+  hljs: true
 prismjs:
   preprocess: true
   line_number: true
@@ -61,3 +61,12 @@ ignore: null
 theme: arknights
 deploy:
   type: ''
+feed:
+  type: atom      #[rss2, atom]       
+  path: atom.xml  #[rss.xml, atom.xml]    
+  limit: 20           
+  content: true     
+  content_limit: 140  
+  content_limit_delim: ' ' 
+  order_by: -date     
+  autodiscovery: true 
