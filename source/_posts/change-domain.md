@@ -19,3 +19,18 @@ categories: 杂七杂八
 | 咕咕嘎嘎api| ai.wsmdn.top|ai.wsmdn.dpdns.org|
 | Stalk Example|api.wsmdn.top|现已无法访问|
 | DressAPI Docs| docs.wsmdn.top|docs.wsmdn.dpdns.org|
+
+## 2026-3-14
+域名已恢复  
+恢复的服务如下  
+| 项目      | 原域名 |   现域名     |
+| ------- | ----------- |  --------- |
+| DressAPI V2     | api.wsmdn.dpdns.org       |   api.wsmdn.top        |
+| DressAPI V1   | dress.wsmdn.dpdns.org        |    dress.wsmdn.top    |
+| 柠檬论坛  |   forum.wsmdn.dpdns.org       |   forum.wsmdn.top       |
+| 柠檬博客   |  blog.wsmdn.dpdns.org         |    blog.wsmdn.top       |
+| 柠檬监控（uptimeflare）| status.wsmdn.dpdns.org| status.wsmdn.top|
+| 蛋饺老师的秘密| pan.wsmdn.dpdns.org| pan.wsmdn.top|
+| Umami|    umami.wsmdn.dpdns.org|umami.wsmdn.top|
+| 咕咕嘎嘎api| ai.wsmdn.dpdns.org|ai.wsmdn.top|
+| DressAPI Docs| docs.wsmdn.dpdns.org|docs.wsmdn.top|
