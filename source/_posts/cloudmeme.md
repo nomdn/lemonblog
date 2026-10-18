@@ -7,5 +7,5 @@ title: 服务商meme
 
 ## 很多
 
-![](/source/img/video_2x_480.gif)
+![](/img/video_2x_480.gif)
 
